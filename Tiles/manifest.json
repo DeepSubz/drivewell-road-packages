@@ -1,0 +1,230 @@
+{
+  "version": "2026-08-18",
+  "generatedAt": "2026-08-18T23:46:16Z",
+  "source": "OpenStreetMap",
+  "attribution": "\u00a9 OpenStreetMap contributors",
+  "license": "ODbL 1.0",
+  "overpassEndpoint": "https://overpass-api.de/api/interpreter",
+  "tiles": [
+    {
+      "id": "atlanta",
+      "file": "atlanta.json.gz",
+      "south": 33.45,
+      "west": -84.75,
+      "north": 34.15,
+      "east": -83.95,
+      "sizeBytes": 3683459,
+      "sha256": "3f0e7926aad2fbdae85058c3b8b955176d9a94d0dce0b9ac7acfeef7ebdc6493",
+      "edgeCount": 212095
+    },
+    {
+      "id": "boston",
+      "file": "boston.json.gz",
+      "south": 42.0,
+      "west": -71.35,
+      "north": 42.65,
+      "east": -70.55,
+      "sizeBytes": 4613814,
+      "sha256": "23cc705c44b0efcf5c2dc16077f4db1d516c5bd3961c2b7d152c9c80a227a168",
+      "edgeCount": 273550
+    },
+    {
+      "id": "chicago",
+      "file": "chicago.json.gz",
+      "south": 41.35,
+      "west": -88.0,
+      "north": 42.25,
+      "east": -87.35,
+      "sizeBytes": 1963874,
+      "sha256": "79d87a7f5c62c51eef2e29118176fe42dbf9d9bb4a04820d008d6362df6e3fb7",
+      "edgeCount": 109939
+    },
+    {
+      "id": "dallas-fort-worth",
+      "file": "dallas-fort-worth.json.gz",
+      "south": 32.45,
+      "west": -97.6,
+      "north": 33.4,
+      "east": -96.3,
+      "sizeBytes": 9832840,
+      "sha256": "925d077697e95543000b044d79571f2bb0b736e0ba3762c4992e5e7c93de79eb",
+      "edgeCount": 565833
+    },
+    {
+      "id": "denver",
+      "file": "denver.json.gz",
+      "south": 39.45,
+      "west": -105.15,
+      "north": 40.25,
+      "east": -104.55,
+      "sizeBytes": 4244035,
+      "sha256": "a9cfa48ce8120102049b33f274ba9a445ea12370dca5131f81090c456b064295",
+      "edgeCount": 252681
+    },
+    {
+      "id": "detroit",
+      "file": "detroit.json.gz",
+      "south": 41.85,
+      "west": -83.55,
+      "north": 42.8,
+      "east": -82.65,
+      "sizeBytes": 5905591,
+      "sha256": "344b5477b5d11d73632bf9b374885bd4104b22d04aa1647a852b1c42b975d198",
+      "edgeCount": 343940
+    },
+    {
+      "id": "houston",
+      "file": "houston.json.gz",
+      "south": 29.45,
+      "west": -96.1,
+      "north": 30.35,
+      "east": -94.9,
+      "sizeBytes": 3044727,
+      "sha256": "744cb4ccaaf1c3f7bf94a3d4de481d01e415b1810d2bb249e0ac41b999c24e4c",
+      "edgeCount": 172801
+    },
+    {
+      "id": "los-angeles",
+      "file": "los-angeles.json.gz",
+      "south": 33.55,
+      "west": -118.95,
+      "north": 34.35,
+      "east": -117.55,
+      "sizeBytes": 8889984,
+      "sha256": "ad181e7c16ff7a204cd89adcdd3038413800a467638d25891f23c6c240005dc3",
+      "edgeCount": 499095
+    },
+    {
+      "id": "miami",
+      "file": "miami.json.gz",
+      "south": 25.3,
+      "west": -80.55,
+      "north": 26.45,
+      "east": -80.0,
+      "sizeBytes": 5107211,
+      "sha256": "94c90ee4f37d8a04c4be6326d8d636a1d85ba708c5da47767760f2a869b582f8",
+      "edgeCount": 292676
+    },
+    {
+      "id": "minneapolis-st-paul",
+      "file": "minneapolis-st-paul.json.gz",
+      "south": 44.55,
+      "west": -94.05,
+      "north": 45.35,
+      "east": -92.75,
+      "sizeBytes": 5203282,
+      "sha256": "3f8bcc87e0ee5d7ee27920d12e978b02bcd161dbcbf5e10ab2314f362287c7fd",
+      "edgeCount": 306524
+    },
+    {
+      "id": "new-york",
+      "file": "new-york.json.gz",
+      "south": 40.35,
+      "west": -74.45,
+      "north": 41.25,
+      "east": -73.4,
+      "sizeBytes": 6844595,
+      "sha256": "bd6e25c1fa3e486aa77cb539aeec98c6411be15bdf4be9e424f807988798eeee",
+      "edgeCount": 391399
+    },
+    {
+      "id": "philadelphia",
+      "file": "philadelphia.json.gz",
+      "south": 39.55,
+      "west": -75.25,
+      "north": 40.45,
+      "east": -74.65,
+      "sizeBytes": 2900490,
+      "sha256": "c899dd8205ce48d4cbd5083218ac105b19e35d2df5f76f799b4c09ee6686c3ef",
+      "edgeCount": 169727
+    },
+    {
+      "id": "phoenix",
+      "file": "phoenix.json.gz",
+      "south": 33.1,
+      "west": -112.55,
+      "north": 33.95,
+      "east": -111.25,
+      "sizeBytes": 16370209,
+      "sha256": "731f9a2325b1bb1cc5d6cb9e686e5fda49b6880c894b6dc32b6c8df5dec9460a",
+      "edgeCount": 968782
+    },
+    {
+      "id": "riverside-san-bernardino",
+      "file": "riverside-san-bernardino.json.gz",
+      "south": 33.55,
+      "west": -117.85,
+      "north": 34.35,
+      "east": -116.75,
+      "sizeBytes": 3753099,
+      "sha256": "5240587c57606583dd2f238b3109386f49a986a10f8b61197ccd78cdd67bd791",
+      "edgeCount": 210563
+    },
+    {
+      "id": "san-diego",
+      "file": "san-diego.json.gz",
+      "south": 32.5,
+      "west": -117.6,
+      "north": 33.15,
+      "east": -116.65,
+      "sizeBytes": 2247745,
+      "sha256": "f1d7025df8f52c3e5fb254e363af049a6702bb5aab39278af27709851563a3aa",
+      "edgeCount": 127591
+    },
+    {
+      "id": "san-francisco-bay",
+      "file": "san-francisco-bay.json.gz",
+      "south": 37.05,
+      "west": -122.65,
+      "north": 38.25,
+      "east": -121.55,
+      "sizeBytes": 6504601,
+      "sha256": "6686f9d5af7498a52f378009483a195498f5705c34729e185a871a56d51e314d",
+      "edgeCount": 368784
+    },
+    {
+      "id": "seattle",
+      "file": "seattle.json.gz",
+      "south": 47.05,
+      "west": -122.75,
+      "north": 47.95,
+      "east": -121.55,
+      "sizeBytes": 9678635,
+      "sha256": "dff6215e5b26897c9c25c548361d5a5c97e24c2bd143dafe920b612fdf310de1",
+      "edgeCount": 574970
+    },
+    {
+      "id": "st-louis",
+      "file": "st-louis.json.gz",
+      "south": 38.15,
+      "west": -90.95,
+      "north": 38.95,
+      "east": -89.2,
+      "sizeBytes": 3415096,
+      "sha256": "f6c166f1b49e74957e1bb52632ec4d692ccf0d41acabb1571466c9c5b93bc133",
+      "edgeCount": 199034
+    },
+    {
+      "id": "tampa-bay",
+      "file": "tampa-bay.json.gz",
+      "south": 27.45,
+      "west": -83.0,
+      "north": 28.45,
+      "east": -82.0,
+      "sizeBytes": 2641576,
+      "sha256": "9ce989f12fe34f79c675056182983155fafd92afcb52017495f4994175c4d6ec",
+      "edgeCount": 150903
+    },
+    {
+      "id": "washington-dc",
+      "file": "washington-dc.json.gz",
+      "south": 38.7,
+      "west": -77.55,
+      "north": 39.45,
+      "east": -76.75,
+      "sizeBytes": 6113032,
+      "sha256": "66999aeff25a7d2fb78c828bd94faadfbe477a0369578ce5d7c4870c4a56458c",
+      "edgeCount": 352720
+    }
+  ]
+}
