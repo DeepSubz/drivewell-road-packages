@@ -46,8 +46,8 @@
       "west": -97.6,
       "north": 33.4,
       "east": -96.3,
-      "sizeBytes": 9832840,
-      "sha256": "925d077697e95543000b044d79571f2bb0b736e0ba3762c4992e5e7c93de79eb",
+      "sizeBytes": 9824802,
+      "sha256": "b33a619584a0151940805e08a1d7c062e94c338feec5743a30c8af40dca2e70e",
       "edgeCount": 565833
     },
     {
@@ -139,17 +139,6 @@
       "edgeCount": 169727
     },
     {
-      "id": "phoenix",
-      "file": "phoenix.json.gz",
-      "south": 33.1,
-      "west": -112.55,
-      "north": 33.95,
-      "east": -111.25,
-      "sizeBytes": 16370209,
-      "sha256": "731f9a2325b1bb1cc5d6cb9e686e5fda49b6880c894b6dc32b6c8df5dec9460a",
-      "edgeCount": 968782
-    },
-    {
       "id": "riverside-san-bernardino",
       "file": "riverside-san-bernardino.json.gz",
       "south": 33.55,
@@ -225,6 +214,39 @@
       "sizeBytes": 6113032,
       "sha256": "66999aeff25a7d2fb78c828bd94faadfbe477a0369578ce5d7c4870c4a56458c",
       "edgeCount": 352720
+    },
+    {
+      "id": "phoenix-south",
+      "file": "phoenix-south.json.gz",
+      "south": 33.1,
+      "west": -112.55,
+      "north": 33.4305697,
+      "east": -111.25,
+      "sizeBytes": 5505110,
+      "sha256": "1e720a851d3ad91bd89ab4f6777ca5b6460c90738c404f66362d394893d982b0",
+      "edgeCount": 322807
+    },
+    {
+      "id": "phoenix-central",
+      "file": "phoenix-central.json.gz",
+      "south": 33.4305697,
+      "west": -112.55,
+      "north": 33.59923145,
+      "east": -111.25,
+      "sizeBytes": 5399416,
+      "sha256": "776b849bbfa8389b3f881140a5ab81f644de0ebb3b2ef569480940b0cf8de8cf",
+      "edgeCount": 322928
+    },
+    {
+      "id": "phoenix-north",
+      "file": "phoenix-north.json.gz",
+      "south": 33.59923145,
+      "west": -112.55,
+      "north": 33.95,
+      "east": -111.25,
+      "sizeBytes": 5440292,
+      "sha256": "c2a0845c5e1b3a51d6337089b030aa4df9bf72005b6ff5183e81713437eb0d5d",
+      "edgeCount": 322670
     }
   ]
 }
