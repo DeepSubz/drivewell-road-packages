@@ -40,17 +40,6 @@
       "edgeCount": 109939
     },
     {
-      "id": "dallas-fort-worth",
-      "file": "dallas-fort-worth.json.gz",
-      "south": 32.45,
-      "west": -97.6,
-      "north": 33.4,
-      "east": -96.3,
-      "sizeBytes": 9824802,
-      "sha256": "b33a619584a0151940805e08a1d7c062e94c338feec5743a30c8af40dca2e70e",
-      "edgeCount": 565833
-    },
-    {
       "id": "denver",
       "file": "denver.json.gz",
       "south": 39.45,
@@ -247,6 +236,39 @@
       "sizeBytes": 5440292,
       "sha256": "c2a0845c5e1b3a51d6337089b030aa4df9bf72005b6ff5183e81713437eb0d5d",
       "edgeCount": 322670
+    },
+    {
+      "id": "dallas-south",
+      "file": "dallas-south.json.gz",
+      "south": 32.45,
+      "west": -97.6,
+      "north": 32.781211049999996,
+      "east": -96.3,
+      "sizeBytes": 3280695,
+      "sha256": "27b57f0499e6eeb5bbfac11a3877d88504063a7f5d54f41a3fde437549ef8743",
+      "edgeCount": 188611
+    },
+    {
+      "id": "dallas-central",
+      "file": "dallas-central.json.gz",
+      "south": 32.781211049999996,
+      "west": -97.6,
+      "north": 32.9725355,
+      "east": -96.3,
+      "sizeBytes": 3298328,
+      "sha256": "4e60c6edb32f63a1f8398c2d86cebcc8872d60f62a4a382164cda58fd9312fcb",
+      "edgeCount": 188609
+    },
+    {
+      "id": "dallas-north",
+      "file": "dallas-north.json.gz",
+      "south": 32.9725355,
+      "west": -97.6,
+      "north": 33.4,
+      "east": -96.3,
+      "sizeBytes": 3229798,
+      "sha256": "673799f8edf8d62f32b528d3beec6354e0ace01343ce1f96a820811cf6bb4f3a",
+      "edgeCount": 188613
     }
   ]
 }
